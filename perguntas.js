@@ -7,7 +7,7 @@ criaCartao(
 criaCartao(
     'futsal',
     'Qual o melhor o melhor time de futsal do paraná',
-    '@rasinformática'
+    'AGFF/UniGuairacá/Prefeitura de Guarapuava'
 )
 
 criaCartao(
