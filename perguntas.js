@@ -12,7 +12,7 @@ criaCartao(
 
 criaCartao(
     'Qual é a melhor turma do CERB',
-    'A que mais se dedica as aulas do Prof. Rafael?',
+    'qual é o melhor time do nucleo de ivaiporã?',
     'Estou em dúvida'
 )
 
