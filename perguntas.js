@@ -19,5 +19,5 @@ criaCartao(
 criaCartao(
     'Ganhando o Mundo',
     'Quem os jogos escolares de 2k25?',
-    'colegio objetivo
+    'colegio objetivo!!!'
 )
