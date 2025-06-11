@@ -18,6 +18,6 @@ criaCartao(
 
 criaCartao(
     'Jogos escolares',
-    'Quem os jogos escolares de 2k25?',
+    'Quem ganhou os jogos escolares de 2k25?',
     'colegio objetivo!!!'
 )
