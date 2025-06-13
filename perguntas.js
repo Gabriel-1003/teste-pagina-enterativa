@@ -11,9 +11,9 @@ criaCartao(
 )
 
 criaCartao(
-    'Qual é a melhor turma do CERB',
+    'Qual é a melhor time',
     'qual é o melhor time do nucleo de ivaiporã?',
-    'Estou em dúvida'
+    'Rio branco do ivai'
 )
 
 criaCartao(
